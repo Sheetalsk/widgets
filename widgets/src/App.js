@@ -16,8 +16,8 @@ const items = [
     content: "React is a favorite JS library among engineers",
   },
   {
-    title: "How do you use React?",
-    content: "You use React by creating components",
+    title: "How can we use React?",
+    content: "We` can use React by creating components",
   },
 ];
 
